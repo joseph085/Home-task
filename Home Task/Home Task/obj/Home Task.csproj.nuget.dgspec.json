@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusif\\Desktop\\Home Task\\Home Task\\Home Task.csproj": {}
+    "C:\\Users\\yusif\\Desktop\\Home-task\\Home Task\\Home Task\\Home Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusif\\Desktop\\Home Task\\Home Task\\Home Task.csproj": {
+    "C:\\Users\\yusif\\Desktop\\Home-task\\Home Task\\Home Task\\Home Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusif\\Desktop\\Home Task\\Home Task\\Home Task.csproj",
+        "projectUniqueName": "C:\\Users\\yusif\\Desktop\\Home-task\\Home Task\\Home Task\\Home Task.csproj",
         "projectName": "Home Task",
-        "projectPath": "C:\\Users\\yusif\\Desktop\\Home Task\\Home Task\\Home Task.csproj",
+        "projectPath": "C:\\Users\\yusif\\Desktop\\Home-task\\Home Task\\Home Task\\Home Task.csproj",
         "packagesPath": "C:\\Users\\yusif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusif\\Desktop\\Home Task\\Home Task\\obj\\",
+        "outputPath": "C:\\Users\\yusif\\Desktop\\Home-task\\Home Task\\Home Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusif\\AppData\\Roaming\\NuGet\\NuGet.Config",
